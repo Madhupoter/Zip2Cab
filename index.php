@@ -812,7 +812,7 @@
 
                                     <!-- Google reCAPTCHA -->
                                     <div class="form-group">
-                                        <div class="g-recaptcha" data-sitekey="6Ldo_KErAAAAAPMEbavFVfyPpHzZ5CYi1ZMZJPuQ"
+                                        <div class="g-recaptcha" data-sitekey="Addyourkey"
                                             data-callback="enableSubmit"></div>
                                     </div>
 
@@ -1565,6 +1565,7 @@
 </body>
 
 </html>
+
 
 
 
